@@ -5,11 +5,11 @@ Corizzo, R., & Leal-Arenas, S. (2023, June). A Deep Fusion Model for Human vs. M
 
 ------  
 ### Cite:
-@inproceedings{corizzo2023deep,
-  title={A Deep Fusion Model for Human $ vs $. Machine-Generated Essay Classification},
-  author={Corizzo, Roberto and Leal-Arenas, Sebastian},
-  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)},
-  pages={1--10},
-  year={2023},
-  organization={IEEE}
-}
+@inproceedings{corizzo2023deep,<br />
+  title={A Deep Fusion Model for Human $ vs $. Machine-Generated Essay Classification},<br />
+  author={Corizzo, Roberto and Leal-Arenas, Sebastian},<br />
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)},<br />
+  pages={1--10},<br />
+  year={2023},<br />
+  organization={IEEE}<br />
+}<br />
